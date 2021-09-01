@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/lja1018/playground-babel/issues"
   },
-  "homepage": "https://github.com/lja1018/playground-babel#readme"
+  "homepage": "https://github.com/lja1018/playground-babel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
 }
